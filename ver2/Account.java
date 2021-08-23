@@ -2,6 +2,7 @@ package ver2;
 
 public class Account {
 	// Instance variable, only available inside this class.
+   // The balance should be over 1 dollar :)
 	private double balance;
 	private String name;
 	
